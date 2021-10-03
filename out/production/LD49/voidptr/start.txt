@@ -1,0 +1,12 @@
+Startup Arguments:
+
+/v -> Displays FPS and game performance
+/d -> Enables developer mode and / or cheats.
+/i -> Insecure mode.
+/w=<width> -> Specifies the desired width of the window
+/h=<height> -> Specifies the desired height of the window
+/s=<scale> -> Specifies the desired graphics scaling.
+/sv -> Skips the startup animation
+/nf -> Disable focus nagger
+/nt -> Disable always on top
+/ni -> No fake glitching (visuals only!)
